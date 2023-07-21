@@ -1,2 +1,2 @@
-# CodingBot
+HighLow Game
 Practice Python
